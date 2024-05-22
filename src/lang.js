@@ -1,0 +1,31 @@
+export const uz = {
+  appbartitle:"Eslatmalar",
+  appbarsearch:"Qidirish...",
+  infobar:"Barcha eslatmalar",
+  list:"Ro'xat",
+  grid:"Jadval",
+  titlewindow:"Eslatma qo'shish",
+  titlewindowedit:"eslatmani tahrirlash",
+  editbtn:"o'zgartirish",
+  deledit:"o'chirish",
+  closebtn:"bekor qilish",
+  addbtn:"qo'shish",
+  editwindowbtn:"o'zgartirish",
+  nonote: "eslatmalar mavjud emas",
+}
+
+export const ru = {
+  appbartitle:"заметки",
+  appbarsearch:"поиск...",
+  infobar:"все заметки",
+  list:"Список",
+  grid:"сетка",
+  titlewindow:"добавить",
+  titlewindowedit:"изменить заметку",
+  editbtn:"РЕДАКТИРОВАТЬ",
+  deledit:"удалить",
+  closebtn:"отмена",
+  addbtn:"добавить",
+  editwindowbtn:"изменить",
+  nonote: "заметок нет",
+}
